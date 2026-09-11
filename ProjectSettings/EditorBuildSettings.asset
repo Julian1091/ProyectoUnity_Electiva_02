@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: "Assets/Scenes/Gu\xEDa1_Conexi\xF3nM\xF3vil.unity"
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: b0458341154e91143bac54e57d96824a
+  - enabled: 0
+    path: Assets/Scenes/Touch.unity
+    guid: 7979da9f03841cc4f817c53d0ef9878a
+  - enabled: 0
+    path: Assets/Scenes/MultiTouch.unity
+    guid: 48ae4474b7248b747b599c56af2473aa
+  - enabled: 0
+    path: Assets/Scenes/Pad.unity
+    guid: 927e72806e3661a43967b43c57eb2097
+  - enabled: 0
+    path: Assets/Scenes/Sensores.unity
+    guid: 222c0b210d5d634498ad8dc22522bb97
+  - enabled: 0
+    path: Assets/Scenes/InteraccionMetaforas.unity
+    guid: 70acf30f9e1ecf74a88554b3fe9fa428
+  - enabled: 1
+    path: Assets/Scenes/Proyect/MainMenu.unity
+    guid: a5749e14cb1195e4e933415fdb320d5f
+  - enabled: 0
+    path: Assets/Scenes/Proyect/Level1.unity
+    guid: 652d173b25f427a469cce56ebaa7b636
+  - enabled: 1
+    path: Assets/Scenes/Proyect/Nivel 1.unity
+    guid: da37b4517056cc9438d492b4e96e36a3
+  - enabled: 1
+    path: Assets/Scenes/Proyect/Nivel 2.unity
+    guid: b099f5daa2fb17846ac8dd62f1b6caa9
+  - enabled: 1
+    path: Assets/Scenes/Proyect/Nivel 3.unity
+    guid: 66807a859ed360f49ac182c587d07a09
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

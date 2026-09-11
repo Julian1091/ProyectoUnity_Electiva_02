@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d764c0558b3da04d86c9a68dec7d837
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfxSource: {instanceID: 0}
+  - buttonClip: {fileID: 8300000, guid: 4f7ed924669fe0b468accb3457614f03, type: 3}
+  - damageClip: {fileID: 8300000, guid: 62b9d647098708c40af5de9f215684d5, type: 3}
+  - jumpClip: {fileID: 8300000, guid: 7f6d2ae69e39c5c40846dbf626117544, type: 3}
+  - transformClip: {fileID: 8300000, guid: 119eeabb5b8bb684b8d6766db088d8a3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
